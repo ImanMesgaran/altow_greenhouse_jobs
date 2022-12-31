@@ -2,54 +2,54 @@
     "@@locale": "de",
     "bestPicksText": "Die besten Tipps für Ihren Spediteur",
     "@bestPicksText": {
-        "description": "Texto mostrado en la AppBar de la página del contador"
+        "description": "Text, der im Titel des Abschnitts mit den besten Tipps angezeigt wird"
     },
     "appBarTitle": "Connect",
     "@appBarTitle": {
-        "description": "Text shown in the AppBar of the Jobs listing page"
+        "description": "Text, der in der AppBar der Seite Stellenangebote angezeigt wird"
     },
     "findYourDreamJobText": "Finden Sie Ihren \ndream-Job bei Connect",
     "@findYourDreamJobText": {
-        "description": "Find your dream job section title"
+        "description": "Finden Sie den Abschnittstitel Ihres Traumjobs"
     },
     "applyButtonText": "Anwenden",
     "@applyButtonText": {
-        "description": "Apply button text"
+        "description": "Schaltflächentext anwenden"
     },
     "languageButtonText": "Sprache",
     "@languageButtonText": {
-        "description": "Language button title"
+        "description": "Titel der Sprachschaltfläche"
     },
         "englishText": "Englisch",
     "@englishText": {
-        "description": "English Language title"
+        "description": "Englischsprachiger Titel"
     },
     "germanText": "Deutsch",
     "@germanText": {
-        "description": "German Language title"
+        "description": "Deutschsprachiger Titel"
     },
     "searchBoxHintText": "Suchen Sie nach Stellenbezeichnungen, Schlüsselwörtern...",
     "@searchBoxHintText": {
-        "description": "Hint showing in the search job box."
+        "description": "Hinweis, der im Suchauftragsfeld angezeigt wird."
     },
     "noWidgetText": "Dieses Widget ist absichtlich leer.",
     "@noWidgetText": {
-        "description": "Text to show when a widget is intentionaly empty."
+        "description": "Text, der angezeigt wird, wenn ein Widget absichtlich leer ist."
     },
     "noSearchResultText": "Kein Ergebnis entspricht den Suchkriterien...",
     "@noSearchResultText": {
-        "description": "Text to show when search has no result."
+        "description": "Text, der angezeigt werden soll, wenn die Suche kein Ergebnis hat."
     },
     "themeText": "Thema",
     "@themeText": {
-        "description": "Text to show in title of theme section in the setting"
+        "description": "Text, der im Titel des Themenabschnitts in der Einstellung angezeigt werden soll"
     },
     "lightThemeText": "Lichtthema",
     "@lightThemeText": {
-        "description": "Text to show when App Theme is Light"
+        "description": "Text, der angezeigt werden soll, wenn das App-Design hell ist"
     },
     "darkThemeText": "Dunkles Thema",
     "@darkThemeText": {
-        "description": "Text to show when App Theme is Dark"
+        "description": "Text, der angezeigt werden soll, wenn das App-Design dunkel ist"
     }
 }
