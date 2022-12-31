@@ -1,0 +1,56 @@
+{
+    "@@locale": "en",
+    "bestPicksText": "Best picks for your carrier",
+    "@bestPicksText": {
+        "description": "Text shown in title of best picks section"
+    },
+    "appBarTitle": "Connect",
+    "@appBarTitle": {
+        "description": "Text shown in the AppBar of the Jobs listing page"
+    },
+    "findYourDreamJobText": "Find your \ndream job at Connect",
+    "@findYourDreamJobText": {
+        "description": "Find your dream job section title"
+    },
+    "applyButtonText": "Apply",
+    "@applyButtonText": {
+        "description": "Find your dream job section title"
+    },
+    "languageButtonText": "Language",
+    "@languageButtonText": {
+        "description": "Language button title"
+    },
+    "englishText": "English",
+    "@englishText": {
+        "description": "English Language title"
+    },
+    "germanText": "German",
+    "@germanText": {
+        "description": "German Language title"
+    },
+    "searchBoxHintText": "Search job title, keywords...",
+    "@searchBoxHintText": {
+        "description": "Hint showing in the search job box."
+    },
+    "noWidgetText": "This Widget is intentionaly empty.",
+    "@noWidgetText": {
+        "description": "Text to show when a widget is intentionaly empty."
+    },
+    "noSearchResultText": "No result match the search criteria...",
+    "@noSearchResultText": {
+        "description": "Text to show when search has no result."
+    },
+    "themeText": "Theme",
+    "@themeText": {
+        "description": "Text to show in title of theme section in the setting"
+    },
+    "lightThemeText": "Light Theme",
+    "@lightThemeText": {
+        "description": "Text to show when App Theme is Light"
+    }
+    ,
+    "darkThemeText": "Dark Theme",
+    "@darkThemeText": {
+        "description": "Text to show when App Theme is Dark"
+    }
+}

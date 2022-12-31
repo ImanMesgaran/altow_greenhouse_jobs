@@ -1,0 +1,122 @@
+name: altow_greenhouse_jobs
+description: A Very Good Project created by Very Good CLI.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+  flutter: 3.3.8
+
+dependencies:
+  dio: ^4.0.6
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  # Riverpod state management
+  hooks_riverpod: ^2.1.3
+  flutter_hooks: ^0.18.5+1
+  freezed_annotation: ^2.2.0
+  intl: ^0.17.0
+  json_annotation: ^4.7.0
+  # OctoImage to use with CachedNetworkImage
+  octo_image: ^1.0.2
+  # Cached Network Image plugin
+  cached_network_image: ^3.2.3
+  shimmer: ^2.0.0
+  equatable: ^2.0.5
+  dartz: ^0.10.1
+  # Logger
+  logger: any
+  retrofit: ^3.3.1
+  get_it: ^7.2.0
+  # Reactive Extensions for Dart
+  rxdart: ^0.27.7
+  # drift database
+  drift: ^2.2.0
+  sqlite3_flutter_libs: ^0.5.0
+  path_provider: ^2.0.0
+  path: ^1.8.2
+  # Flutter native splash
+  flutter_native_splash: ^2.2.16
+  persistent_bottom_nav_bar_v2: ^4.2.6
+  marquee: ^2.2.3
+  collection: ^1.16.0
+
+dev_dependencies:
+  # flutter_test:
+  #   sdk: flutter
+  freezed: ^2.2.0
+  retrofit_generator: ">=4.0.0 <5.0.0"
+  build_runner: ">2.3.0 <4.0.0"
+  json_serializable: ^6.5.3
+  mocktail: any
+  very_good_analysis: ^3.1.0
+  flutter_launcher_icons: ^0.11.0
+  drift_dev: ^2.2.0+1
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/icons/no_result.png
+    # Logos
+    - assets/logo/coca_cola_logo.jpg
+    - assets/logo/amazon_logo.jpg
+    - assets/logo/apple_logo.jpg
+    - assets/logo/att_logo.jpg
+    - assets/logo/cisco_logo.jpg
+    - assets/logo/facebook_logo.jpg
+    - assets/logo/ge_logo.jpg
+    - assets/logo/google_logo.jpg
+    - assets/logo/intel_logo.jpg
+    - assets/logo/louis_vuitton_logo.jpg
+    - assets/logo/microsoft_logo.jpg
+    - assets/logo/nike_logo.jpg
+    - assets/logo/samsung_logo.jpg
+    - assets/logo/toyota_logo.jpg
+    - assets/logo/walt_disney_logo.jpg
+    # Artworks
+    - assets/artworks/artwork_1.jpg
+    - assets/artworks/artwork_2.jpg
+    - assets/artworks/artwork_3.jpg
+    - assets/artworks/artwork_4.jpg
+    - assets/artworks/artwork_5.jpg
+    - assets/artworks/artwork_6.jpg
+    - assets/artworks/artwork_7.jpg
+    - assets/artworks/artwork_8.jpg
+    - assets/artworks/artwork_9.jpg
+    - assets/artworks/artwork_10.jpg
+  fonts:
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/RobotoMono-Thin.ttf
+          weight: 100
+        - asset: assets/fonts/RobotoMono-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/RobotoMono-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/RobotoMono-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/RobotoMono-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/RobotoMono-Bold.ttf
+          weight: 700
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/altow_logo.png"
+  remove_alpha_ios: true
+  adaptive_icon_background: "#ffffff"
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/icons/altow_logo.png
+  color_dark: "#000000"
+  image_dark: assets/icons/altow_logo.png
+
+  android_12:
+  fullscreen: true

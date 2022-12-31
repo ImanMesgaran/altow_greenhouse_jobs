@@ -1,0 +1,55 @@
+{
+    "@@locale": "de",
+    "bestPicksText": "Die besten Tipps für Ihren Spediteur",
+    "@bestPicksText": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    },
+    "appBarTitle": "Connect",
+    "@appBarTitle": {
+        "description": "Text shown in the AppBar of the Jobs listing page"
+    },
+    "findYourDreamJobText": "Finden Sie Ihren \ndream-Job bei Connect",
+    "@findYourDreamJobText": {
+        "description": "Find your dream job section title"
+    },
+    "applyButtonText": "Anwenden",
+    "@applyButtonText": {
+        "description": "Apply button text"
+    },
+    "languageButtonText": "Sprache",
+    "@languageButtonText": {
+        "description": "Language button title"
+    },
+        "englishText": "Englisch",
+    "@englishText": {
+        "description": "English Language title"
+    },
+    "germanText": "Deutsch",
+    "@germanText": {
+        "description": "German Language title"
+    },
+    "searchBoxHintText": "Suchen Sie nach Stellenbezeichnungen, Schlüsselwörtern...",
+    "@searchBoxHintText": {
+        "description": "Hint showing in the search job box."
+    },
+    "noWidgetText": "Dieses Widget ist absichtlich leer.",
+    "@noWidgetText": {
+        "description": "Text to show when a widget is intentionaly empty."
+    },
+    "noSearchResultText": "Kein Ergebnis entspricht den Suchkriterien...",
+    "@noSearchResultText": {
+        "description": "Text to show when search has no result."
+    },
+    "themeText": "Thema",
+    "@themeText": {
+        "description": "Text to show in title of theme section in the setting"
+    },
+    "lightThemeText": "Lichtthema",
+    "@lightThemeText": {
+        "description": "Text to show when App Theme is Light"
+    },
+    "darkThemeText": "Dunkles Thema",
+    "@darkThemeText": {
+        "description": "Text to show when App Theme is Dark"
+    }
+}
